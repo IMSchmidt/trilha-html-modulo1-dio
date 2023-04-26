@@ -1,4 +1,7 @@
 # trilha-html-modulo1-dio
+# Feita por Igor Schmidt
+# 25/04/2023
+
 Desafio sugerido pela DIO.ME no curso de HTML módulo 1
 
 Neste desafio demonstro o que aprendi no primeiro módulo de HTML do site DIO.ME, é um módulo bem simples onde foi demonstrado o uso de tags e a estrutura básica do HTML. 
@@ -32,3 +35,5 @@ Ancora de voltar para o topo da página após explicações dos links.
 Lista com links de referencias de matérias externas. 
 
 Aproveitei para corrigira algumas coisas que estavam desatualizadas no curso e incrementar comentários. 
+
+Observação sobre o arquivo README.md: para que as tags sejam exibidas você precisará usar a crase no início e no final de cada tag. 
